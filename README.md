@@ -40,3 +40,10 @@ dockernya containernya ga bisa dijalankan kak mau betulin juga udah kemepetan (l
 images league
 
 ![images league ](https://github.com/felix11736/premierleague/assets/111951543/ddd635f2-6a93-4532-b8e9-3267e813bc57)
+
+![database connection ](https://github.com/felix11736/premierleague/assets/111951543/c783ec66-7a0b-49ad-b19c-e921dfaec3f7)
+
+
+
+
+
