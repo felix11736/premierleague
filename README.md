@@ -14,6 +14,7 @@ GENERATE API
 
 
 saya pakek flask supaya tetep bisa buat website kalaupun pakek python 
+(Flask adalah kerangka kerja Python ringan untuk aplikasi web.)
 karena aturan main di flasknya file html itu harus ada di dalam folder yang harus bernama 'templates' tapi file didalamnya tetap generate sendiri 
 
 
