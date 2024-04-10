@@ -34,7 +34,7 @@ http://192.168.18.15:5000/premierleauefelix
 ![standinga](https://github.com/felix11736/premierleague/assets/111951543/c3f3dea7-4cba-4e7c-a1bc-d8cc55519f5c)
 
 
-dockernya containernya ga bisa dijalankan kak mau betulin juga udah kemepetan 
+dockernya containernya ga bisa dijalankan kak mau betulin juga udah kemepetan (lebih ke gabisa )
 ![dockerfsd](https://github.com/felix11736/premierleague/assets/111951543/f9f3ee83-fcc2-4e96-9f3c-d1bff31db42c)
 
 images league
