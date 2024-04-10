@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <title>premier league klasmen</title>
+</head>
+<body>
+ <div class="container"> 
+    <table class="table table-striped ">
+  <thead>
+    <tr>
+        <th scope="col"></th>
+      <th scope="col">Name</th>
+      <th scope="col">GamesPlayed</th>
+      <th scope="col">Wins</th>
+      <th scope="col">Losses</th>
+      <th scope="col">Ties</th>
+      <th scope="col">Points</th>
+      <th scope="col">Rank</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for i in data %}
+     <tr>
+            <td><img src="{{i.team.logo}}" alt=""style="width: 40px; height="40px;></td>
+            <th scope="row">{{ i.team.name }}</th>
+            <td>{{ i.stats.gamesPlayed }}</td>
+            <td>{{ i.stats.wins }}</td>
+            <td>{{ i.stats.losses }}</td>
+            <td>{{ i.stats.ties }}</td>
+            <td>{{ i.stats.points }}</td>
+            <td>{{ i.stats.rank }}</td>
+     </tr>
+    {% endfor %}
+  </tbody>
+</table></div>
+</body>
+</html>
