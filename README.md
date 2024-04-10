@@ -3,7 +3,7 @@ Sebenernya yang mau dikulpulin yang ini kak cuman karna docker containernya eror
 saya cuman mau jelasin sedikit aja sih kak menegenai erornya siapa tau kakak mau bacanya 
 
 databasenya dari https://rapidapi.com/UnlimitedAPI/api/premier-league-standings1/pricing 
-kenapa pakek ini supaya datanya realtime 
+kenapa pakek ini supaya datanya realtime sesuai dengan premierleague yang sekarang 
 
 ![Screenshot 2024-04-09 153548](https://github.com/felix11736/premierleague/assets/111951543/64b05bae-2401-4993-ab65-a16c1e0d4a03)
 
