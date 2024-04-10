@@ -1,6 +1,6 @@
 
 Sebenernya yang mau dikulpulin yang ini kak cuman karna docker containernya eror jadi ga jadi yang ini 
-sayacuman mau jelasin sedikit aja sih kak menegenai erornya 
+saya cuman mau jelasin sedikit aja sih kak menegenai erornya siapa tau kakak mau bacanya 
 
 databasenya dari https://rapidapi.com/UnlimitedAPI/api/premier-league-standings1/pricing 
 kenapa pakek ini supaya datanya realtime 
