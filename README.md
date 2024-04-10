@@ -4,7 +4,13 @@ kenapa pakek ini supaya datanya realtime
 ![Screenshot 2024-04-09 153548](https://github.com/felix11736/premierleague/assets/111951543/64b05bae-2401-4993-ab65-a16c1e0d4a03)
 
 
+GENERATE API 
+
+![generate api ](https://github.com/felix11736/premierleague/assets/111951543/5fc0d58b-0b66-4f2f-aa2e-9d950db083f4)
+
+
 saya pakek flask supaya tetep bisa buat website kalaupun pakek python 
+karena aturan main di flasknya file html itu harus ada di dalam folder yang harus bernama 'templates' tapi file didalamnya tetap generate sendiri 
 
 
  dieksekusi diterminal 
